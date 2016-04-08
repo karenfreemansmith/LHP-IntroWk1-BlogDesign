@@ -1,8 +1,39 @@
 .post {
   border-style: solid;
   border-width: 2px;
-  padding: 10px;
+  padding: 20px;
   width: 70%;
   margin: auto;
   margin-top: 10px;
+  background-color: skyblue;
+  opacity: .85;
+  font-style: italic;
+}
+
+.about {
+  width: 70%;
+  border-style: solid;
+  border-width: 2px;
+  padding: 20px;
+  margin: auto;
+  margin-top: 10px;
+  background-color: lemonchiffon;
+  opacity: .85;
+}
+
+html {
+  background-image: url("../img/balloons.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1 {
+  color: lemonchiffon;
+  margin: 50px;
+}
+
+img {
+  width:15%;
+  float: left;
+  margin-right: 20px;
 }
