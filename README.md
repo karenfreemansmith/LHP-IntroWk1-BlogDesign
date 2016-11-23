@@ -3,7 +3,7 @@ Version 0.0.2: April 8, 2016
 by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
 ### Technologies Used
-HTML, CSS, Bootstrap, Git, Github
+HTML, CSS, Git, Github
 
 ![screenshot of project running](screenshot.png)
 
